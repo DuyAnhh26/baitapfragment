@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewName" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="backButton" type="id" />
+    <item name="nameTextView" type="id" />
+    <item name="recyclerViewNames" type="id" />
+    <item name="listViewNames" type="id" />
+</resources>
